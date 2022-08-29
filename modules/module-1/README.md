@@ -29,4 +29,4 @@ sed -i 's,src="/,src="S3_BUCKET/,g' index.html
 
 7. Replace S3_BUCKET in index.html file located in ``resources/lambda/react``
 
-8. Run the terraform apply action.
+8. Run the terraform apply action. 
