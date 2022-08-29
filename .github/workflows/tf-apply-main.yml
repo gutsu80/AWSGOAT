@@ -71,7 +71,7 @@ jobs:
         ls -al
       continue-on-error: false
 
-    # Copy tfstate file to s3 bucket
+    # Copy tfstate file to s3 bucket 
     - name: Copy terraform.tfstate file to s3bucket
       if: always()
       run: |
