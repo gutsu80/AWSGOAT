@@ -1,6 +1,6 @@
 # Objective
 
-Perform an XSS injection attack on a given web application.
+Perform an XSS injection attack on a given web application. 
 
 # Solutions
 
